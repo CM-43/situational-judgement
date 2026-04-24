@@ -35,7 +35,7 @@
 }
 
 .sjs-card-footer {
-  padding: 12px 24px;
+  padding: 12px 37px;
   display: flex;
   justify-content: flex-end;
 }
@@ -44,4 +44,6 @@
   display: flex;
   justify-content: flex-end;
   padding-top: 12px;
+
+
 }
