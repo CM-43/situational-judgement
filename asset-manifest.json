@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/situational-judgement/static/css/main.0cb98c34.css",
-    "main.js": "/situational-judgement/static/js/main.1840f790.js",
+    "main.js": "/situational-judgement/static/js/main.4a7fbeba.js",
     "index.html": "/situational-judgement/index.html",
     "main.0cb98c34.css.map": "/situational-judgement/static/css/main.0cb98c34.css.map",
-    "main.1840f790.js.map": "/situational-judgement/static/js/main.1840f790.js.map"
+    "main.4a7fbeba.js.map": "/situational-judgement/static/js/main.4a7fbeba.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb98c34.css",
-    "static/js/main.1840f790.js"
+    "static/js/main.4a7fbeba.js"
   ]
 }
